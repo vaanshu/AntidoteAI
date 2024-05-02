@@ -35,8 +35,8 @@ $ python pretty.py
 ## Organisation
 
 
-![here](https://github.com/vaanshu/AntidoteAI/assets/134844354/667c63a3-e1a7-48a4-bc00-7af47bda9783)
- 
+![image](https://github.com/vaanshu/AntidoteAI-v2/assets/74679937/5bfb4569-6185-4e0f-a44d-dcfea5246163)
+
 
 
 ## Features Code Approach
@@ -86,11 +86,13 @@ This introduction sets the stage for a deeper exploration of the System Health C
 
 ## COMMAND LINE INTERFACE
 
-![cli](https://github.com/vaanshu/AntidoteAI/assets/134844354/52bbb233-df01-4703-80f7-e56266188f14)
+![image](https://github.com/vaanshu/AntidoteAI-v2/assets/74679937/ffd92a9c-982e-4e0f-982c-9a54333ea9ad)
+
 
 ## UI 
 
-![ui](https://github.com/vaanshu/AntidoteAI/assets/134844354/5ae3703c-28ed-4d71-ac43-3d6f3984dc00)
+![image](https://github.com/vaanshu/AntidoteAI-v2/assets/74679937/d4392010-67a5-4ee7-b3f1-20cc092988c7)
+
 
 ## RESULT 
 
